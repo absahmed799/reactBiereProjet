@@ -1,0 +1,28 @@
+.entete{
+    margin: 0;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    height: 128px;
+    background-color: #adba62;
+    color: white;
+}
+.logo {
+    width: 100px;
+    height: 50px;
+    
+    /* any other styles you want to add */
+  }
+
+
+.active {
+    font-weight: bold;
+    color: aqua;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.entete nav a{
+    color: whitesmoke;
+    margin-left: 16px;
+}

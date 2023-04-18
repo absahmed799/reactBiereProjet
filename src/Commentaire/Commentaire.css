@@ -1,0 +1,10 @@
+.uneCommentaire{
+    width: 60%;
+    background-color: antiquewhite;
+    padding: 1rem;
+    margin: 3rem;
+}
+.user{
+    display: flex;
+    justify-content: space-between;
+}

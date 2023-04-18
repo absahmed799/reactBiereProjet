@@ -1,0 +1,13 @@
+.catalogue {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.catalogue article {
+    min-width: 180px;
+    height: 196px;
+    
+}
+.liste{
+    padding: 1rem;
+}
